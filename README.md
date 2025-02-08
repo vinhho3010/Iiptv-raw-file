@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
-# LINK ĐƯỢC CẮP BỞI VMT TV
-
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="9acde36114385d1c31e51d81a16cdb61",K+ Cine
